@@ -55,10 +55,16 @@ main {
   font-weight: bold;
   }
 
-  .Un_mail {
-    text-align: left;
+.Un_mail {
     background-color: #9e9e9e;
-    border: 2px solid black;
+  }
+
+.bg_txt {
+  border: 2px solid black;
+}
+
+  .Re_mail {
+    background-color: #ededed;
   }
 
 .box{
@@ -73,12 +79,6 @@ main {
 
 .inner_txt {
   color: #696868;
-}
-
-.Re_mail {
-  border: 2px solid black;
-  text-align: left;
-  background-color: #ededed;
 }
 
 footer {
