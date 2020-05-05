@@ -1,0 +1,94 @@
+/*IN CSS ID vince su Class */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} *
+
+#bg {
+  background-image: url(../img/bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+#container {
+  width: 80%;
+  margin: 0 auto;
+  height: 100px;
+}
+
+a {
+  text-decoration: none;
+}
+
+#logo {
+  height: 80px;
+  vertical-align: middle;
+
+}
+
+#G4mail {
+  color: #fc2c03;
+  font-weight: bolder;
+}
+
+#search {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#message {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+main {
+  margin-bottom: 10px;
+}
+
+#c_effect {
+  background-color: #ffff00;
+  border-radius: 50%;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  }
+
+  .Un_mail {
+    text-align: left;
+    background-color: #9e9e9e;
+    border: 2px solid black;
+  }
+
+.box{
+  margin-left: 10px;
+  margin-right: 5px;
+  margin-bottom: 6px;
+  margin-top: 2px;
+  padding: 5px;
+  border: 2px solid black;
+  display: inline-block;
+}
+
+.inner_txt {
+  color: #696868;
+}
+
+.Re_mail {
+  border: 2px solid black;
+  text-align: left;
+  background-color: #ededed;
+}
+
+footer {
+  text-align: center;
+  font-style: italic;
+  font-size: 10px;
+  margin-top: 5px;
+
+}
+.foo1{
+  font-size: 15px;
+  font-weight: 700;
+}
